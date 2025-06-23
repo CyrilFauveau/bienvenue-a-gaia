@@ -1,0 +1,12 @@
+@font-face {}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before,
+[class^="link"]:before,
+[class*=" link"]:before {
+  font-family: "icons";
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
